@@ -8,3 +8,4 @@ This directory holds all the scripts for shell basics
 **4-listmorefiles** - Display current directory contents, including hidden files (starting with .). Use the long format.
 **5-listfilesdigitonly** - Display current directory contents
 **6-firstdirectory** - creates a directory within a directory
+**7-movethatfile** - moving a file to another directory
