@@ -9,3 +9,4 @@ This directory holds all the scripts for shell basics
 **5-listfilesdigitonly** - Display current directory contents
 **6-firstdirectory** - creates a directory within a directory
 **7-movethatfile** - moving a file to another directory
+**8-firstdelete** - deleting form a script
