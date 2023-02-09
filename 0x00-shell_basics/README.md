@@ -16,3 +16,4 @@ This directory holds all the scripts for shell basics
 **12-file_type** - script that prints the type of the file
 **13-symbolic_link** - creating symbolic links in current directory
 **14-copy_html** -script that copies all relevant files from current to parent directory
+**101-clean_emacs** - removing specific files from current directory
