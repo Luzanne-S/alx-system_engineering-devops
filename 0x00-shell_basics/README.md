@@ -14,3 +14,4 @@ This directory holds all the scripts for shell basics
 **10-back** - changes working directory to previous one
 **11-lists** - listing everything in directories
 **12-file_type** - script that prints the type of the file
+**13-symbolic_link** - creating symbolic links in current directory
