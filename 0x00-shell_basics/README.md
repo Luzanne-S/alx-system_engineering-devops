@@ -12,3 +12,4 @@ This directory holds all the scripts for shell basics
 **8-firstdelete** - deleting form a script
 **9-firsdirdeletion** - deleted a directory within a directory
 **10-back** - changes working directory to previous one
+**11-lists** - listing everything in directories
