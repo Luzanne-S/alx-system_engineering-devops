@@ -23,3 +23,5 @@
 **22-users_and_homes** - script that displays all users home directories
 **100-empty_casks** - script to fill empty files
 **101-gifs** - lists all files with a gif
+**02-acrostic** - a poem
+**102-acrostic**
