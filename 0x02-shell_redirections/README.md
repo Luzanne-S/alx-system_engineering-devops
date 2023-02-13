@@ -16,3 +16,4 @@
 **15-countthatword** - display the number of lines that contain the pattern bin
 **16-whatsnext** - display lines containing pattern root
 **17-hidethisword** - display lines in a file that do not contain bin
+**18-letteronly** - Display all lines of the file /etc/ssh/sshd_config starting with a letter.
