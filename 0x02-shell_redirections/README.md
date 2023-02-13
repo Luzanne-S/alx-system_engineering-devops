@@ -21,3 +21,4 @@
 **20-hiago** - script that removes letters c from input
 **21-reverse** - script that reverses its input
 **22-users_and_homes** - script that displays all users home directories
+**100-empty_casks** - script to fill empty files
