@@ -11,3 +11,4 @@
 **10-no_more_js** - script that deletes js files
 **11-directories** - counts number of directories
 **12-newest_files** - display 10 newest lines in directory
+**13-unique** - a script that takes a list of words as input and prints only words that appear exactly once
