@@ -10,3 +10,4 @@
 **9-duplicate_last_line** -script that duplicates last line of a file
 **10-no_more_js** - script that deletes js files
 **11-directories** - counts number of directories
+**12-newest_files** - display 10 newest lines in directory
