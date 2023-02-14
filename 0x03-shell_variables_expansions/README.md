@@ -13,3 +13,4 @@
 **12-combinations** -Create a script that prints all possible combinations of two letters, except oo.
 **13-print_float** -Write a script that prints a number with two decimal places, followed by a new line.
 **100-decimal_to_hexadecimal** -conver number
+**102-odd** -script that prints every other line
